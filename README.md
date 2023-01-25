@@ -1,2 +1,2 @@
 # scripts
-Helpful scripts
+Helpful scripts to check usage.
